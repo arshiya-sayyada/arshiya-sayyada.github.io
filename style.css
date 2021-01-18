@@ -1,0 +1,17 @@
+body {
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-text-stroke: 1.5px rgb(237,0,140);
+}
+
+
+h3 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 20px;
+}
